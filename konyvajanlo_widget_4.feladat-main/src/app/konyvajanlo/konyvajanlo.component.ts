@@ -28,4 +28,7 @@ kiiras(i: number) {
   
  
 }
+/*kiiras(sale: boolean) {
+  return sale ? 'Akciós' : 'Nem akciós'
+}*/
 
